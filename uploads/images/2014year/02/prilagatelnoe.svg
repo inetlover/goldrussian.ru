@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Имя прилагательное</title>
+  <desc>Имя прилагательное — знаменательная часть речи, которая обозначает признак предмет и отвечает на вопросы какой? какая? какое? какие?</desc>
+
+<text font-size="35" x="65.0" y="35.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Имя прилагательное
+  </text>
+<g font-weight="bold" font-style="italic" font-family="Liberation Sans" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="4.0" y="90.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="90.0">
+    обозначает признак предмета, отвечает
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="116.0">
+    на вопросы:
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="150.0">
+    2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="150.0">
+    изменяется по родам, числам и падежам:
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="176.0">
+     мужской
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="202.0">
+     женский
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="228.0">
+     средний
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="314.0">
+    И. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="201.0" y="314.0">
+    ,   Р. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="340.0">
+    Д. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="220.0" y="340.0">
+    ,   В. п.
+  </text>
+  <text xml:space="preserve" font-size="11" x="425.0" y="340.0">
+    и т. д.
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="371.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="371.0">
+    в предложении:
+  </text>
+</g>
+  
+<g font-weight="bold" font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#3214e4">
+  
+  <text xml:space="preserve" x="190" y="176.0">
+      интересный
+  </text>
+  <text xml:space="preserve" x="190" y="202.0">
+      интересная
+  </text>
+  <text xml:space="preserve" x="190" y="228.0">
+      интересное
+  </text>
+  <text xml:space="preserve" x="15" y="280.0">
+    интересный
+  </text>
+  <text xml:space="preserve" x="230" y="280.0">
+    —
+  </text>
+    <text xml:space="preserve" x="258" y="280.0">
+    интересные
+  </text>
+  <text xml:space="preserve" x="65" y="314.0">
+   учебный
+  </text>
+  <text xml:space="preserve" x="258" y="314.0">
+   учебного 
+  </text>
+  <text xml:space="preserve" x="63" y="340.0">
+   учебному
+  </text>
+  <text xml:space="preserve" x="281" y="340.0">
+   учебный
+  </text>
+</g>
+
+<g font-style="italic" font-family="URW Palladio L" font-size="20.0" fill="#1fa9d2">
+    <text xml:space="preserve" font-size="26" x="140" y="116.0">
+    какой? какая? какое? какие?
+    </text>
+    <text xml:space="preserve" x="335" y="176.0">
+    (рассказ)
+  </text>
+  <text xml:space="preserve" x="335" y="202.0">
+    (история)
+  </text>
+  <text xml:space="preserve" x="330" y="228.0">
+    (приключение)
+  </text>
+  <text xml:space="preserve" x="142" y="280.0">
+    (человек)
+  </text>
+  <text xml:space="preserve" x="384" y="280.0">
+    (повести)
+  </text>
+  <text xml:space="preserve" x="152" y="314.0">
+    (год)
+  </text>
+  <text xml:space="preserve" x="350" y="314.0">
+    (года)
+  </text>
+  <text xml:space="preserve" x="160" y="340.0">
+    (году)
+  </text>
+  <text xml:space="preserve" x="367" y="340.0">
+    (год)
+  </text>
+</g>
+
+<text x="145.0" y="202.0" transform="scale(.9025 1.10802)" font-size="65.0" font-family="NanumMyeongjo" fill="#f45c00">}
+</text>
+<text font-style="italic" font-size="24" font-family="URW Palladio L" x="165.0" y="200.0" fill="#20a91f">род
+</text>
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="150.0" y="220.0" fill="#20a91f">(в ед. ч.)
+</text>
+<text font-style="italic" font-weight="bold" font-size="18" font-family="URW Palladio L" x="40.0" y="254.0" fill="#20a91f">
+    единственное число / множественное:
+</text>
+
+<g stroke-width="1.75674002" stroke="#55c71f" fill="none">
+<path
+       d="m 210.93,371.90302 c 2.970899,0.052 4.869881,-4.02585 7.126493,-4.02585 2.256142,0 3.626337,3.97252 6.411494,4.02575 2.972299,0.0503 4.870122,-4.02614 7.126624,-4.02614 2.256511,0 3.625776,3.97262 6.411626,4.02569 2.971799,0.0519 4.869862,-4.02571 7.126133,-4.02571 2.257072,0 3.627547,3.9724 6.411597,4.02567 2.973048,0.052 4.870921,-4.0261 7.127123,-4.0261 2.255722,0 3.626393,3.9724 6.411408,4.02565 2.97187,0.0498 4.87078,-4.02603 7.12684,-4.02603 2.25624,0 3.62749,3.97278 6.41167,4.02562 2.97193,0.0521 4.87008,-4.02562 7.12698,-4.02562 2.2556,0 3.62591,3.97244 6.41103,4.02562 2.97172,0.0503 4.87061,-4.02609 7.12664,-4.02609 2.25657,0 3.62641,3.97242 6.41251,4.02565"/>
+</g>
+</svg>

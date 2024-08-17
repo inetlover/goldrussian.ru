@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Местоимение</title>
+  <desc>Местоимение — знаменательная часть речи, которая не называет предметы, их признаки и количество, а только указывает на них или спрашивает о них.</desc>
+
+<text font-family="sans-serif" font-size="35" x="85.0" y="40.0" stroke="#55c71f" fill="#03ed0a">
+   Местоимение
+  </text>
+<g font-family="Liberation Sans" font-weight="bold" font-style="italic" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="4.0" y="90.0">
+   1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="90.0">
+   не называет, но указывает
+  </text>
+  <text xml:space="preserve" font-size="15" x="145.0" y="116.0">
+   (вместо существительного)
+  </text>
+  <text xml:space="preserve" font-size="15" x="138.0" y="194.0">
+   (вместо прилагательного)
+  </text>
+  <text xml:space="preserve" font-size="15" x="169.0" y="272.0">
+   (вместо числительного)
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="346.0">
+   2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="346.0">
+   в предложении:
+  </text>
+  <text xml:space="preserve" font-size="19" x="96.0" y="369.0">
+   ,
+  </text>
+  <text xml:space="preserve" font-size="19" x="185.0" y="369.0">
+   ,
+  </text>
+  <text xml:space="preserve" font-size="19" x="276.0" y="369.0">
+   ,
+  </text>
+</g>
+  
+<g font-weight="bold" font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#3214e4">
+  <text xml:space="preserve" x="10.0" y="142.0">
+   я, ты, он, мы, вы, они
+  </text>
+  <text xml:space="preserve" x="10.0" y="164.0">
+   кто, что, некто, кто-то
+  </text>
+  <text xml:space="preserve" x="10.0" y="220.0">
+   мой, твой, свой, наш, ваш
+  </text>
+  <text xml:space="preserve" x="10.0" y="242.0">
+   весь, какой, тот, этот
+  </text>
+  <text xml:space="preserve" x="10.0" y="298.0">
+   сколько, столько
+  </text>
+  <text xml:space="preserve" x="10.0" y="320.0">
+   несколько
+  </text>
+</g>
+
+<g font-style="italic" font-family="URW Palladio L" font-size="22.0" fill="#1fa9d2">
+    <text xml:space="preserve" x="20.0" y="116.0">
+   на предмет
+    </text>
+    <text xml:space="preserve" x="20.0" y="194.0">
+   на признак
+    </text>
+    <text xml:space="preserve" x="20.0" y="272.0">
+   на количество
+    </text> 
+</g>
+
+<g font-family="NanumMyeongjo" font-size="42.0" transform="scale(.9025 1.10802)" fill="#f45c00">
+<text x="320.0" y="150.0">}
+</text>
+<text x="320.0" y="220.0">}
+</text>
+<text x="250.0" y="292.0">}
+</text>
+</g>
+
+<g font-family="URW Palladio L" font-style="italic" font-size="18" fill="#20a91f">
+<text x="312.0" y="142.0">изменяются
+</text>
+<text x="312.0" y="164.0" fill="#20a91f">по падежам
+</text>
+<text x="312.0" y="220.0" fill="#20a91f">по родам, числам
+</text>
+<text x="312.0" y="242.0" fill="#20a91f">и падежам
+</text>
+<text x="250.0" y="298.0" fill="#20a91f">только по
+</text>
+<text x="250.0" y="320.0" fill="#20a91f">падежам
+</text>
+</g>
+
+<line x1="75" y1="368" x2="75" y2="370" stroke-width="66" stroke="#55c71f" fill="none"/>
+<line x1="137" y1="369" x2="202" y2="369" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 7; stroke-width: 2px;"/>
+<line x1="227" y1="369" x2="295" y2="369" stroke="#55c71f" fill="none" style="stroke-dasharray: 11 6 3 6; stroke-width: 2px;"/>
+
+<g stroke-width="1.75674002" stroke="#55c71f" fill="none">
+    <path
+       d="m 315.359122,371.72601 c 2.970899,0.052 4.869881,-4.02585 7.126493,-4.02585 2.256142,0 3.626337,3.97252 6.411494,4.02575 2.972299,0.0503 4.870122,-4.02614 7.126624,-4.02614 2.256511,0 3.625776,3.97262 6.411626,4.02569 2.971799,0.0519 4.869862,-4.02571 7.126133,-4.02571 2.257072,0 3.627547,3.9724 6.411597,4.02567 2.973048,0.052 4.870921,-4.0261 7.127123,-4.0261 2.255722,0 3.626393,3.9724 6.411408,4.02565 2.97187,0.0498 4.87078,-4.02603 7.12684,-4.02603 2.25624,0 3.62749,3.97278 6.41167,4.02562 2.97193,0.0521 4.87008,-4.02562 7.12698,-4.02562 2.2556,0 3.62591,3.97244 6.41103,4.02562 2.97172,0.0503 4.87061,-4.02609 7.12664"/>
+</g>
+</svg>

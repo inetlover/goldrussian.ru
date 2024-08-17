@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  
+<title>«Артикул воинский»</title>
+<desc>Русский язык XVIII века: «Артикул воинский» (1716 г.)</desc>
+  <g stroke-width="1">
+    <path d="M370,333L560,468L577,103Z" fill="#4cabcd" stroke="#4cabcd"/>
+    <path d="M360,163L370,333L577,103Z" fill="#64bccb" stroke="#64bccb"/>
+    <path d="M535,-123L429,-7L577,103Z" fill="#83bfc2" stroke="#83bfc2"/>
+    <path d="M429,-7L360,163L577,103Z" fill="#79c1c4" stroke="#79c1c4"/>
+    <path d="M370,333L510,569L560,468Z" fill="#3a9ac6" stroke="#3a9ac6"/>
+    <path d="M370,333L284,649L510,569Z" fill="#419bc4" stroke="#419bc4"/>
+    <path d="M166,483L284,649L370,333Z" fill="#56a7c1" stroke="#56a7c1"/>
+    <path d="M93,105L360,163L429,-7Z" fill="#88cec1" stroke="#88cec1"/>
+    <path d="M101,-103L93,105L429,-7Z" fill="#9fd9bd" stroke="#9fd9bd"/>
+    <path d="M360,163L93,105L370,333Z" fill="#77c9c6" stroke="#77c9c6"/>
+    <path d="M93,105L166,483L370,333Z" fill="#71c3c9" stroke="#71c3c9"/>
+    <path d="M-123,152L-122,455L93,105Z" fill="#9cd5c5" stroke="#9cd5c5"/>
+    <path d="M93,105L-122,455L166,483Z" fill="#85c6c5" stroke="#85c6c5"/>
+    <path d="M-114,-32L93,105L101,-103Z" fill="#b6e3ba" stroke="#b6e3ba"/>
+    <path d="M-114,-32L-123,152L93,105Z" fill="#b2e1bc" stroke="#b2e1bc"/>
+  </g>
+
+<g transform="translate(642.667 -103.222)">
+    </g>
+            <text x="50" y="33" fill="white" text-anchor="start" alignment-baseline="start" font-size="20" font-family="Ubuntu">Русский язык XVIII в.: «Артикул воинский»
+            <tspan x="50" y="56">(1716 г.)</tspan>
+            <tspan x="20" y="96" font-size="19" fill="#823902">Сей артикул надлежит разуметь о оных</tspan>
+            <tspan x="20" y="120" font-size="19" fill="#823902">полках и ротах, которые вместе куды с другими</tspan>
+            <tspan x="20" y="144" font-size="19" fill="#823902">командированы, а без ведома командира тайным</tspan>
+            <tspan x="20" y="168" font-size="19" fill="#823902">образом с неприятелем трактовать, и о здаче места,</tspan>
+            <tspan x="20" y="192" font-size="19" fill="#823902">или города какова договариватся будут, но не о тех,</tspan>
+            <tspan x="20" y="216" font-size="19" fill="#823902">которые одни в каком месте поставлены, и атаку</tspan>
+            <tspan x="20" y="240" font-size="19" fill="#823902">от неприятеля выдержали, и крайние отпоры</tspan>
+            <tspan x="20" y="264" font-size="19" fill="#823902">учинили. Такожде когда оные более держатца, или</tspan>
+            <tspan x="20" y="288" font-size="19" fill="#823902">от фелтмарашала или генерала указу обождать и</tspan>
+            <tspan x="20" y="312" font-size="19" fill="#823902">сикурсу получить более надежды не имели, а с</tspan>
+            <tspan x="20" y="336" font-size="19" fill="#823902">неприятелем надлежащим образом трактовали.</tspan>
+        </text>
+</svg>

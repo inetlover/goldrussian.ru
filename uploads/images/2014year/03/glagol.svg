@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Глагол</title>
+  <desc>Глагол — знаменательная часть речи, которая обозначает действие и отвечает на вопросы что делать? что сделать? что делает? что сделает?</desc>
+
+<text font-size="35" x="165.0" y="40.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Глагол
+  </text>
+<g font-weight="bold" font-style="italic" font-family="Liberation Sans" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="4.0" y="90.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="90.0">
+    обозначает действие предмета, отвечает
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="116.0">
+    на вопросы:
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="150.0">
+    2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="150.0">
+    начальная форма
+  </text>
+  <text xml:space="preserve" font-size="11" x="334.0" y="150.0">
+    например,
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="176.0">
+    изменяется по временам:
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="202.0">
+    настоящее 
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="224.0">
+    время
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="254.0">
+    будущее
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="276.0">
+    время
+  </text>
+  <text xml:space="preserve" font-size="11" x="454" y="276.0">
+   и т. д.
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="306.0">
+    прошедшее
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="328.0">
+    время
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="362.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="362.0">
+    в предложении:
+  </text>
+</g>
+  
+<g font-weight="bold" font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#3214e4">
+  
+  <text xml:space="preserve" x="389.0" y="150.0">
+   читать
+  </text>
+  <text xml:space="preserve" x="285" y="202.0">
+   читаю, читаешь,   
+  </text>
+  <text xml:space="preserve" x="285" y="224.0">
+   читает, читаем
+  </text>
+  <text xml:space="preserve" x="285" y="254.0">
+   буду читать, 
+  </text>
+  <text xml:space="preserve" x="285" y="276.0">
+   будешь читать
+  </text>
+  <text xml:space="preserve" x="285" y="306.0">
+   читал, читала,
+  </text>
+  <text xml:space="preserve" x="285" y="328.0">
+   читало, читали
+  </text>
+</g>
+
+<g font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#1fa9d2">
+    <text xml:space="preserve" font-size="26" x="140" y="116.0">
+    что делать? что сделать?
+    </text>
+    <text xml:space="preserve" x="196" y="150.0">
+    (инфинитив)
+    </text>    
+</g>
+
+<text x="175.0" y="242.0" transform="scale(.9025 1.10802)" font-size="83.0" font-family="NanumMyeongjo" fill="#f45c00">}
+</text>
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="192.0" y="230.0" fill="#20a91f">по лицам
+</text>
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="192.0" y="250.0" fill="#20a91f">и числам
+</text>
+
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="195.0" y="306.0" fill="#20a91f">по родам
+</text>
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="195.0" y="328.0" fill="#20a91f">и числам
+</text>
+
+<line x1="265" y1="360" x2="265" y2="362" stroke-width="100" stroke="#55c71f" fill="none"/>
+<line x1="265" y1="364" x2="265" y2="366" stroke-width="100" stroke="#55c71f" fill="none"/>
+
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.90581644;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="16.994183" height="13.794184" x="358.0029" y="189.48289" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.9160226;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="35.583977" height="13.783978" x="438.11661" y="189.48801" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.89369816;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="25.683739" height="13.806302" x="448.09839" y="211.32686" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.89370668;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="26.533726" height="13.806293" x="358.72485" y="211.32686" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.88921577;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="12.380784" height="13.810784" x="444.61462" y="293.53088" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.91560465;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="11.191575" height="13.784395" x="370.19547" y="315.78781" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.91569364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="13.154306" height="13.784307" x="456.05042" y="315.78784" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.91569364;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="13.154306" height="13.784307" x="340.02084" y="241.93784" />
+  <rect style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f45c00;stroke-width:0.9160226;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     width="35.583977" height="13.783978" x="340.26529" y="263.75803" />
+</svg>

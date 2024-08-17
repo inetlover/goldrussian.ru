@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+<title>Виды предложений цели высказывания</title>
+<desc>По цели высказывания предложения бывают повествовательными, побудительными и вопросительными.</desc>         
+  
+ <g font-size="24" font-family="sans-serif" letter-spacing=".2" stroke="#55c71f" fill="#03ed0a">  
+  <text xml:space="preserve" x="15.0" y="52.0">По цели высказывания предложения
+  </text>
+  <text xml:space="preserve" x="185.0" y="90.0">бывают:
+  </text>
+ </g>
+
+ <g font-weight="bold" font-style="italic" font-family="Liberation Sans" letter-spacing=".2" transform="matrix(1 0 0 1.09653 19.88 68.404)" fill="#5445b1">
+  <text font-size="15.5" x="55.0" y="65.0">1.
+  </text>
+  <text font-size="19.0" x="75.0" y="65.0">повествовательные
+  </text>
+  <text font-size="17.5" x="285.0" y="67.0" transform="scale(1.02687 .97383)" font-family="URW Palladio L" fill="#12a5d0">
+    (сообщение):
+  </text>
+  <text font-size="15.5" x="55.0" y="142.0">2.
+  </text>
+  <text font-size="19.0" x="75.0" y="142.0">вопросительные
+  </text>
+  <text font-size="17.5" x="250.0" y="146.0" transform="scale(1.02687 .97383)" font-family="URW Palladio L" fill="#12a5d0">
+    (вопрос):
+  </text>
+  <text font-size="15.5" x="55.0" y="215.0">3.
+  </text>
+  <text font-size="19.0" x="75.0" y="215.0">побудительные
+  </text>
+  <text font-size="17.5" x="236.0" y="221.0" transform="scale(1.02687 .97383)" font-family="URW Palladio L" fill="#12a5d0">
+    (просьба, приказ):
+  </text>
+ </g>
+
+ <g font-style="italic" font-weight="bold" letter-spacing=".2" font-family="URW Palladio L" text-anchor="middle" fill="#3214e4">
+    <text xml:space="preserve" font-size="22.0" x="230.0" y="170">Идём в театр. Идём в театр!
+    </text>
+    <text xml:space="preserve" font-size="22.0" x="230.0" y="254.0">Ты идёшь в театр?
+    </text>
+    <text xml:space="preserve" font-size="22.0" x="230.0" y="334.0">Говорите, пожалуйста, тише.
+    </text>
+    <text xml:space="preserve" font-size="22.0" x="230.0" y="360.0">Говорите тише!
+    </text>
+ </g>  
+</svg>

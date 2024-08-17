@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" width="500" height="375">
+  
+<title>«Хожение за три моря Афанасия Никитина»</title>
+<desc>Русский язык XV века: «Хожение за три моря Афанасия Никитина» (1475 г.)</desc>
+  <g stroke-width="1">
+    <path d="M370,333L560,468L577,103Z" fill="#4cabcd" stroke="#4cabcd"/>
+    <path d="M360,163L370,333L577,103Z" fill="#64bccb" stroke="#64bccb"/>
+    <path d="M535,-123L429,-7L577,103Z" fill="#83bfc2" stroke="#83bfc2"/>
+    <path d="M429,-7L360,163L577,103Z" fill="#79c1c4" stroke="#79c1c4"/>
+    <path d="M370,333L510,569L560,468Z" fill="#3a9ac6" stroke="#3a9ac6"/>
+    <path d="M370,333L284,649L510,569Z" fill="#419bc4" stroke="#419bc4"/>
+    <path d="M166,483L284,649L370,333Z" fill="#56a7c1" stroke="#56a7c1"/>
+    <path d="M93,105L360,163L429,-7Z" fill="#88cec1" stroke="#88cec1"/>
+    <path d="M101,-103L93,105L429,-7Z" fill="#9fd9bd" stroke="#9fd9bd"/>
+    <path d="M360,163L93,105L370,333Z" fill="#77c9c6" stroke="#77c9c6"/>
+    <path d="M93,105L166,483L370,333Z" fill="#71c3c9" stroke="#71c3c9"/>
+    <path d="M-123,152L-122,455L93,105Z" fill="#9cd5c5" stroke="#9cd5c5"/>
+    <path d="M93,105L-122,455L166,483Z" fill="#85c6c5" stroke="#85c6c5"/>
+    <path d="M-114,-32L93,105L101,-103Z" fill="#b6e3ba" stroke="#b6e3ba"/>
+    <path d="M-114,-32L-123,152L93,105Z" fill="#b2e1bc" stroke="#b2e1bc"/>
+  </g>
+
+<g transform="translate(642.667 -103.222)">
+    </g>
+            <text x="50" y="33" fill="white" text-anchor="start" alignment-baseline="start" font-size="20" font-family="Ubuntu">Русский язык XV в.: «Хожение за три моря
+            <tspan x="50" y="56">Афанасия Никитина» (1475 г. ?)</tspan>
+            <tspan x="20" y="96" font-size="18" fill="#823902">И <tspan fill="blue">пошли есмя</tspan> в Дербенть, заплакавши, <tspan fill="blue">двема суды</tspan>:</tspan>
+            <tspan x="20" y="119" font-size="18" fill="#823902">в одном судне посол Асанбѣг, да тезикы, да русаков</tspan>
+            <tspan x="20" y="142" font-size="18" fill="#823902">нас десеть головами; а в другом судне 6 москвич, да</tspan>
+            <tspan x="20" y="165" font-size="18" fill="#823902">шесть тверич, да коровы, да кормъ нашь. А въстала</tspan>
+            <tspan x="20" y="188" font-size="18" fill="#823902">фуртовина на море, да судно меншое разбило о</tspan>
+            <tspan x="20" y="211" font-size="18" fill="#823902">берег. А ту есть городок Тархи, а люди вышли на</tspan>
+            <tspan x="20" y="234" font-size="18" fill="#823902">берегъ, и пришли кайтакы да людей поимали всѣх.</tspan>
+            <tspan x="20" y="257" font-size="18" fill="#823902">И <tspan fill="blue">пришли есмя</tspan> в Дербенть, и ту Василей поздорову</tspan>
+            <tspan x="20" y="280" font-size="18" fill="#823902">пришел, а мы пограблени. И <tspan fill="blue">билъ есми</tspan> челом</tspan>
+            <tspan x="20" y="303" font-size="18" fill="#823902">Василию Папину да послу ширваншину Асанбѣгу,</tspan>
+            <tspan x="20" y="326" font-size="18" fill="#823902">что <tspan fill="blue">есмя</tspan> с нимъ <tspan fill="blue">пришли</tspan>, что бы <tspan fill="blue">ся печаловал</tspan> о</tspan>
+            <tspan x="20" y="349" font-size="18" fill="#823902">людех, что их поимали под Тархи кайтаки.</tspan>
+        </text>
+</svg>

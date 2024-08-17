@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+ <title>Управление</title>
+ <desc>Управление — это вид подчинительной связи, при котором зависимое слово ставится в том падеже, которого требует главное слово.</desc>
+
+ <g stroke-width="1.8" stroke="#f76601" fill="none">
+		<path d="M 103.91237,-26.822055 103.889,-49.396 l 157.26,0 -0.075,24.397994" transform="matrix(1.15713 0 0 1.08894 7.734 153.483)"/>
+		<path d="m 305.81068,111.68947 4.04302,14.51884 3.94234,-14.49597"/>
+ </g>
+	
+ <line x1="260" y1="179" x2="260" y2="181" stroke-width="130" stroke="#55c71f" fill="none"/>
+	
+ <text font-size="40.0" x="103.0" y="52.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+		Управление
+ </text>
+
+ <g font-weight="bold" font-style="italic" letter-spacing=".2">	
+ <text font-size="18.5" font-family="URW Palladio L" x="98.0" y="95.0" transform="scale(1.02687 .97383)" fill="#12a5d0">
+		вопросы косвенных падежей
+ </text>
+ <text font-size="20.0" font-family="Liberation Sans" x="65.0" y="75.0" transform="matrix(1 0 0 1.09653 19.88 68.404)" fill="#5445b1">
+ Глагол &#160; &#160; + &#160; &#160; Существительное
+ </text>
+ </g>
+ 
+ <g font-weight="bold" font-style="italic" font-family="URW Palladio L">
+	<text font-size="18.0" font-family="Liberation Sans" x="-18.0" y="70.0" transform="matrix(.95497 0 0 1.04715 100.21 103.026)" fill="#20a91f">
+			требует &#160; &#160; &#160;определённого &#160; &#160; падежа
+	</text>
+
+	<text xml:space="preserve" x="110.0" y="135.0" text-anchor="middle" transform="matrix(.95497 0 0 1.04715 100.21 103.026)" fill="#3214e4">
+				<tspan font-size="23.5">Делать</tspan>
+				<tspan font-size="18.5" fill="#1fa9d2">(что?)</tspan>
+				<tspan font-size="23.5">уроки</tspan>
+	</text>
+	<text xml:space="preserve" x="205.0" y="275.0" text-anchor="middle" fill="#3214e4">
+				<tspan font-size="23.5">Делаю</tspan>
+				<tspan font-size="18.5" fill="#1fa9d2">(что?)</tspan>
+				<tspan font-size="23.5">уроки</tspan>
+	</text>
+	<text xml:space="preserve" x="195.0" y="305.0" text-anchor="middle" fill="#3214e4">
+				<tspan font-size="23.5">Делаешь</tspan>
+				<tspan font-size="18.5" fill="#1fa9d2">(что?)</tspan>
+				<tspan font-size="23.5">уроки</tspan>
+	</text>
+	<text xml:space="preserve" x="205.0" y="335.0" text-anchor="middle" fill="#3214e4">
+				<tspan font-size="23.5">Делал</tspan>
+				<tspan font-size="18.5" fill="#1fa9d2">(что?)</tspan>
+				<tspan font-size="23.5">уроки</tspan>
+	</text>
+ </g>
+
+	<text x="388.0" y="294.0" transform="scale(.9025 1.10802)" font-size="103.0" font-family="NanumMyeongjo" fill="#f45c00">}
+	</text>
+	<text font-style="italic" font-family="URW Palladio L" x="389.0" y="295.0" font-size="40" fill="#20a91f">В. п.
+	</text>
+</svg>

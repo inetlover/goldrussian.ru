@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Обстоятельство</title>
+  <desc>Обстоятельство — это второстепенный член предложения, который обозначает место, время, причину, образ действия и отвечает на вопросы: где? куда? когда? откуда? почему? зачем? и как?</desc>
+  
+  <path stroke-width="1.53519058" stroke="#f76601" fill="none" d="m 403.89103,251.934 2.68611,10.11917 2.61922,-10.10324"/>
+  <path stroke-width="1.53519058" stroke="#f76601" fill="none" d="m 409.60927,333.82078 2.68856,10.12444 2.62162,-10.1085"/>
+  
+  <g stroke-width="1.53519058" stroke="#f76601" fill="none" transform="matrix(1.0000376,0,0,0.99533142,-93.94443,72.534557)">
+  <path d="m 201.09228,342.52405 -0.17765,-25.10233 211.33639,0.20068 0.0858,24.30407" transform="matrix(0.9999624,0,0,1.0046905,93.940898,-72.874779)"/>
+  <path d="m 188.27218,270.18293 -0.0323,-24.18616 81.88807,0 0.0858,25.37395"/>
+  </g>
+      
+  <path stroke-width="1.53519058" stroke="#f76601" fill="none" d="m 165.58365,252.48369 2.68447,10.1695 2.61762,-10.1535"/>
+    
+ <g stroke-width="1.53519058" stroke="#f76601" fill="none" transform="matrix(0.95480468,0,0,1.0008015,22.709944,17.311796)">
+  <path d="m 163.35282,242.65939 0.0124,-24.20678 104.36763,0 0.0899,25.26107" transform="matrix(1.0002723,0,0,0.95352876,134.33907,10.166815)"/>
+ </g>
+
+ <g stroke-width="1.53519058" stroke="#f76601" fill="none" transform="matrix(0.95480468,0,0,1.0008015,22.709944,17.311796)"> 
+  <path d="m 152.59906,242.67042 -0.0338,-24.16679 120.57809,0 0.0899,23.15843"/>
+  <path d="m 185.34227,263.01177 2.68605,10.11822 2.61916,-10.10229" transform="matrix(1.0000376,0,0,0.99533142,-112.94443,55.534557)"/>
+</g>
+
+ <line x1="115" y1="291" x2="244" y2="291" stroke="#55c71f" fill="none" style="stroke-dasharray: 11 6 3 6; stroke-width: 2px;"/>
+
+ <line x1="359" y1="291" x2="437" y2="291" stroke="#55c71f" fill="none" style="stroke-dasharray: 11 6 3 6; stroke-width: 2px;"/>
+
+ <line x1="41" y1="370" x2="130" y2="370" stroke="#55c71f" fill="none" style="stroke-dasharray: 11 6 3 6; stroke-width: 2px;"/>
+
+ <line x1="320" y1="370" x2="483" y2="370" stroke="#55c71f" fill="none" style="stroke-dasharray: 11 6 3 6; stroke-width: 2px;"/>
+
+
+  <text font-size="40" x="85.0" y="40.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Обстоятельство
+  </text>
+  
+ <g font-weight="bold" font-style="italic" letter-spacing=".2" font-family="Liberation Sans" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="4.0" y="88.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="88.0">
+    обозначает место, время и образ действия;
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="120.0">
+    2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="120.0">
+    отвечает на вопросы: где? куда? когда?
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="144.0">
+      откуда? почему? зачем? как?
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="176.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="176.0">
+    выражается существительным в
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="200.0">
+    косвенных падежах, наречием.
+  </text>
+  <text xml:space="preserve" font-family="URW Palladio L" font-size="22.5" x="15" y="285" fill="#3214e4">
+      Дети наперегонки побежали в порт.
+    </text>
+    <text xml:space="preserve" font-family="URW Palladio L" font-size="22.5" x="5" y="364" fill="#3214e4">
+      К вечеру вернулся корабль из Атлантики.
+    </text>
+ </g>
+  
+ <g font-style="italic" font-weight="bold" letter-spacing=".2" font-family="URW Palladio L">
+    <text xml:space="preserve" font-size="17.5" x="178" y="232" fill="#1fa9d2">
+      как?
+    </text>
+    <text xml:space="preserve" font-size="17.5" x="304" y="232" fill="#1fa9d2">
+      куда?
+    </text>
+    <text xml:space="preserve" font-size="17.5" x="82" y="314" fill="#1fa9d2">
+      когда?
+    </text>
+    <text xml:space="preserve" font-size="17.5" x="242" y="314" fill="#1fa9d2">
+      откуда?
+    </text>
+ </g>
+</svg>

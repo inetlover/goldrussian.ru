@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Наречие</title>
+  <desc>Наречие — знаменательная часть речи, которая обозначает признак действия или признак признака.</desc>
+
+<text font-size="35" x="145.0" y="40.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Наречие
+  </text>
+<g font-family="Liberation Sans" font-weight="bold" font-style="italic" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="4.0" y="90.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="90.0">
+    отвечает на вопросы:
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="340.0">
+    2. 
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="340.0">
+    не изменяется  —
+  </text>
+  <text xml:space="preserve" font-size="16" x="205.0" y="340.0">
+     не склоняется и не спрягается!
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="368.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="368.0">
+    в предложении:
+  </text>
+</g>
+  
+<g font-family="URW Palladio L" font-weight="bold" font-style="italic" font-size="21.0" fill="#3214e4">
+  <text xml:space="preserve" x="59.0" y="140.0">
+    весело, по-дружески
+  </text>
+  <text xml:space="preserve" x="59.0" y="192.0">
+    издалека, наверху, направо   
+  </text>
+  <text xml:space="preserve" x="59.0" y="244.0">
+    накануне, сейчас, зимой
+  </text>
+  <text xml:space="preserve" x="59.0" y="298.0">
+    чересчур, слишком
+  </text>
+</g>
+
+<g font-family="URW Palladio L" font-style="italic" fill="#1fa9d2">
+    <text xml:space="preserve" font-size="26" x="45" y="120.0">
+    как? каким образом?
+    </text>
+    <text xml:space="preserve" font-size="26" x="45" y="172.0">
+    где? куда? откуда?
+  </text>
+  <text xml:space="preserve" font-size="26" x="45" y="224.0">
+    когда? как долго?
+  </text>
+  <text xml:space="preserve" font-size="26" x="45" y="278.0">
+    насколько? в какой степени?
+  </text>  
+</g>
+
+<text x="45.0" y="213.0" style="font-specification:OpenSymbol;font-family:OpenSymbol;font-size:138.0px" fill="#f45c00">{
+</text>
+<text font-family="NanumMyeongjo" font-size="46.0" transform="scale(.9025 1.10802)" fill="#f45c00" x="61.0" y="272.0">{
+</text>
+
+<g font-family="URW Palladio L" font-style="italic" font-size="18" fill="#20a91f">
+  <text font-size="26" x="362.0" y="120.0">обозначает
+  </text>
+  <text x="361.0" y="140.0">(образ действия)
+  </text>
+  <text x="360.0" y="192.0">(место действия)
+  </text>
+  <text x="361.0" y="244.0">(время действия)
+  </text>
+  <text x="348.0" y="298.0">(степень качества)
+  </text>
+</g>
+
+<text style="line-height:125%;stroke:none;stroke-width:1px;" transform="matrix(0,-1,1,0,0,0)">
+<tspan x="-250.0" y="24.0" style="font-style:italic;font-size:18.5px;font-family:'URW Palladio L';fill:#20a91f;">поясняют</tspan>
+<tspan x="-200.0" y="44.0" style="font-style:italic;font-size:18.5px;font-family:'URW Palladio L';fill:#20a91f;">глаголы</tspan>
+<tspan x="-316.0" y="44.0" style="font-style:italic;font-size:18.5px;font-family:'URW Palladio L';fill:#20a91f;">прилагат.</tspan>
+</text>
+
+<line x1="210" y1="369" x2="290" y2="369" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 5 2 5; stroke-width: 2px;"/>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Дополнение</title>
+  <desc>Дополнение — это второстепенный член предложения, который обозначает предмет и отвечает на вопросы косвенных падежей.</desc>
+  
+  <g stroke-width="1.53519058" stroke="#f76601" fill="none">
+    <path d="m 272.46037,225.17377 -0.11115,0.0299 96.0847,0 -0.0575,25.87642"/>
+    <path d="m 365.78335,239.09782 2.54093,12.35331 2.47767,-12.33385"/>
+  </g>
+
+  <g stroke-width="1.53519058" stroke="#f76601" fill="none" transform="matrix(0.95480468,0,0,1.0008015,-7.5448331,6.563388)">
+      <path d="m 173.35282,240.05216 0.0124,-21.59955 120.57809,0 -0.0575,25.40856"/>
+      <path d="m 291.22211,232.36697 2.679,12.31899 2.61229,-12.29959"/>
+  </g>
+
+  <g stroke-width="1.53519058" stroke="#f76601" fill="none" transform="matrix(0.82805035,0,0,1.0007487,-28.129654,81.635201)">
+    <path d="m 173.47637,240.64167 -0.11118,-22.18906 120.57809,0 -0.0575,25.40856"/>
+    <path d="m 290.79879,232.43731 3.15094,12.23222 3.07246,-12.21297"/>
+  </g>
+
+  <line x1="230" y1="276" x2="306" y2="276" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 7; stroke-width: 2px;"/>
+
+  <line x1="330" y1="276" x2="410" y2="276" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 7; stroke-width: 2px;"/>
+
+  <line x1="173" y1="350" x2="241" y2="350" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 7; stroke-width: 2px;"/>
+  
+  <text font-size="40" x="110.0" y="45.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Дополнение
+  </text>
+  
+ <g font-weight="bold" font-style="italic" letter-spacing=".2" font-family="Liberation Sans" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="25.0" y="98.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="41.0" y="98.0">
+    обозначает предмет;
+  </text>
+  <text xml:space="preserve" font-size="16" x="25.0" y="132.0">
+    2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="41.0" y="132.0">
+    отвечает на вопросы косвенных падежей;
+  </text>
+  <text xml:space="preserve" font-size="16" x="25.0" y="166.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="41.0" y="166.0">
+    выражается существительными,
+  </text>
+  <text xml:space="preserve" font-size="19" x="41.0" y="192.0">
+    местоимениями, числительными.
+  </text>
+  <text xml:space="preserve" font-family="URW Palladio L" font-size="22.5" x="20" y="270" fill="#3214e4">
+      Сад наполнился шумом и смехом.
+    </text>
+    <text xml:space="preserve" font-family="URW Palladio L" font-size="22.5" x="20" y="344" fill="#3214e4">
+      Приплыла к нему рыбка, спросила...
+    </text>
+ </g>
+  
+ <g font-style="italic" font-weight="bold" letter-spacing=".2" font-family="URW Palladio L">
+        <text xml:space="preserve" font-size="17.5" x="227" y="220" fill="#1fa9d2">
+      чем?
+    </text>
+    <text xml:space="preserve" font-size="17.5" x="107" y="295" fill="#1fa9d2">
+      к кому?
+    </text>
+ </g>
+</svg>

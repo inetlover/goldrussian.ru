@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Числительное</title>
+  <desc>Числительное — знаменательная часть речи, которая обозначает отвлечённое число, количество предметов и их порядок при счёте.</desc>
+
+<text font-size="35" x="85.0" y="40.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Имя числительное
+  </text>
+<g font-weight="bold" font-style="italic" font-family="Liberation Sans" fill="#5445b1">
+  <text xml:space="preserve" font-size="22" x="15.0" y="90.0">
+    количественные
+  </text>
+  <text xml:space="preserve" font-size="22" x="280.0" y="90.0">
+    порядковые
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="124.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="124.0">
+    обозначают отвлечённое число
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="208.0">
+    отвечают на вопрос:
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="266.0">
+    2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="266.0">
+    изменяются
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="350.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="350.0">
+    в предложении могут быть
+  </text>
+  <text xml:space="preserve" font-size="19" x="97.0" y="371.0">
+    ,
+  </text>
+</g>
+  
+<g font-weight="bold" font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#3214e4">  
+  <text xml:space="preserve" x="4.0" y="176.0">
+   один, пять, семь
+  </text>
+  <text xml:space="preserve" x="240" y="176.0">
+   первый, пятый, седьмой
+  </text>
+  <text xml:space="preserve" x="4" y="318.0">
+   пять, пяти, пятью
+  </text>
+  <text xml:space="preserve" x="240" y="318.0">
+   пятый, пятая, пятое
+  </text>
+</g>
+
+<g font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#1fa9d2">
+  <text font-style="italic" font-size="18" x="25.0" y="150.0">
+   количество предметов:
+  </text>
+  <text font-style="italic" font-size="18" x="260.0" y="150.0">
+   порядок предметов при счёте:
+  </text>
+  <text xml:space="preserve" font-size="26" x="20" y="234.0">
+   сколько?
+  </text>
+  <text xml:space="preserve" font-size="26" x="237" y="234.0">
+   который? (какой?)
+  </text>    
+</g>
+
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="25.0" y="292.0" fill="#20a91f">
+   только по падежам:
+</text>
+<text font-style="italic" font-size="18" font-family="URW Palladio L" x="265.0" y="292.0" fill="#20a91f">
+   родам, падежам и числам:
+</text>
+
+<line x1="80" y1="369" x2="80" y2="371" stroke-width="70" stroke="#55c71f" fill="none"/>
+<line x1="142" y1="370" x2="206" y2="370" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 7; stroke-width: 2px;"/>
+  <g stroke-width="1.75674002" stroke="#55c71f" fill="none">
+    <path
+       d="m 330.359122,371.72601 c 2.970899,0.052 4.869881,-4.02585 7.126493,-4.02585 2.256142,0 3.626337,3.97252 6.411494,4.02575 2.972299,0.0503 4.870122,-4.02614 7.126624,-4.02614 2.256511,0 3.625776,3.97262 6.411626,4.02569 2.971799,0.0519 4.869862,-4.02571 7.126133,-4.02571 2.257072,0 3.627547,3.9724 6.411597,4.02567 2.973048,0.052 4.870921,-4.0261 7.127123,-4.0261 2.255722,0 3.626393,3.9724 6.411408,4.02565 2.97187,0.0498 4.87078,-4.02603 7.12684,-4.02603 2.25624,0 3.62749,3.97278 6.41167,4.02562 2.97193,0.0521 4.87008,-4.02562 7.12698,-4.02562 2.2556,0 3.62591,3.97244 6.41103,4.02562 2.97172,0.0503 4.87061,-4.02609 7.12664,-4.02609 2.25657,0 3.62641,3.97242 6.41251,4.02565"/>
+  </g>
+  
+  <rect style="fill:none;stroke:#e92e1a;stroke-width:0.89054465;stroke-opacity:1" width="27.758455" height="13.809456" x="300.74527"
+     y="305.64526" />
+  <rect style="fill:none;fill-rule:evenodd;stroke:#e92e1a;stroke-width:0.9550544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" width="12.030946" height="13.744946" x="124.47752" y="305.67752" />
+  <rect style="fill:none;stroke:#e92e1a;stroke-width:0.87044126;stroke-opacity:1" width="17.429558" height="13.829558" x="196.53522"
+     y="305.63519" />
+  <rect style="fill:none;stroke:#e92e1a;stroke-width:0.8540023;stroke-opacity:1" width="22.245998" height="13.845998" x="378.927"
+     y="305.62698" />
+  <rect style="fill:none;stroke:#e92e1a;stroke-width:0.77807122;stroke-opacity:1" width="20.921928" height="13.921928" x="451.68903"
+     y="305.58905" />
+  <path style="fill:none;stroke:#f76601;stroke-width:2.00789976" d="m 186.18603,48.414912 -0.0449,0.02135 0.0469,-0.01748 c -7.5e-4,-9.93e-4 -0.001,-0.003 -0.002,-0.004 z m -0.0449,0.02135 -58.42868,21.506464 58.02413,-21.318298 0.40455,-0.188166 z"/>
+  <path style="fill:none;stroke:#f76601;stroke-width:1.95345044" d="m 138.04349,62.31515 -12.20482,8.118074 14.80898,-0.795173" />
+  <path style="fill:none;stroke:#f76601;stroke-width:2.05949664" d="m 309.8707,48.066302 0.0466,0.02167 -0.0486,-0.01774 c 7.8e-4,-10e-4 0.001,-0.003 0.002,-0.0041 z m 0.0466,0.02167 60.5681,21.826759 -60.14873,-21.63579 -0.41937,-0.190969 z"/>
+  <path style="fill:none;stroke:#f76601;stroke-width:1.94816172" d="m 359.74021,62.112926 12.1308,8.123452 -14.71915,-0.795698" />
+</svg>

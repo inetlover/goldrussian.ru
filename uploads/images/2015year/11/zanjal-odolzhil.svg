@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" height="375" width="500">
+
+<title>Занял - одолжил</title>
+<desc>Я занял у родителей денег и не вернул, потому что бездельник. Весной друг байк мне одолжил, и я до лета не дожил.</desc>
+	<rect width="500" height="375" fill="#0bad61"/>
+	<defs>
+	    <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+	      <stop offset="0%" style="stop-color:rgb(0,0,255);
+	      stop-opacity:0" />
+	      <stop offset="100%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+	    </radialGradient>
+	    <radialGradient id="grad" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+		  <stop offset="0%" style="stop-color:#fff;
+		  stop-opacity:0" />
+		  <stop offset="100%" style="stop-color:#0bad61;stop-opacity:1" />
+		</radialGradient>
+	</defs>
+  <!-- <ellipse cx="242" cy="142" rx="100" ry="100" fill="url(#grad1)" /> -->
+  <ellipse cx="455" cy="338" rx="400" ry="400" fill="url(#grad)" />
+ <g transform="translate(642.667 -103.222)">
+    <rect ry="0" y="104.512" x="-642.667" height="375" width="500" fill="url(#b)"/>
+  </g>
+      <text x="249" y="90" fill="white" text-anchor="middle" font-size="23" font-family="Ubuntu">Я занял у родителей денег
+      <tspan x="249" y="125">И не вернул, потому что бездельник.</tspan>
+      <tspan x="249" y="160">Весной друг байк мне одолжил,</tspan>
+      <tspan x="249" y="195">И я до лета не дожил.</tspan>
+      <tspan x="249" y="295" font-size="21" fill="#822fa1">Норма: я — занял, мне — одолжили</tspan>
+      <tspan x="249" y="320" font-size="21" fill="#822fa1">(в значении «дали взаймы»)</tspan>
+</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 375" height="375" width="500">
+  
+<title>Воры — договоры</title>
+<desc>Мы — не жулики, не во́ры — подписали догово́ры.</desc>
+  <g stroke-width="1">
+   <path d="M370,333L560,468L577,103Z" fill="#4cabcd" stroke="#4cabcd"/>
+    <path d="M360,163L370,333L577,103Z" fill="#64bccb" stroke="#64bccb"/>
+    <path d="M535,-123L429,-7L577,103Z" fill="#83bfc2" stroke="#83bfc2"/>
+    <path d="M429,-7L360,163L577,103Z" fill="#79c1c4" stroke="#79c1c4"/>
+    <path d="M370,333L510,569L560,468Z" fill="#3a9ac6" stroke="#3a9ac6"/>
+    <path d="M370,333L284,649L510,569Z" fill="#419bc4" stroke="#419bc4"/>
+    <path d="M166,483L284,649L370,333Z" fill="#56a7c1" stroke="#56a7c1"/>
+    <path d="M93,105L360,163L429,-7Z" fill="#88cec1" stroke="#88cec1"/>
+    <path d="M101,-103L93,105L429,-7Z" fill="#9fd9bd" stroke="#9fd9bd"/>
+    <path d="M360,163L93,105L370,333Z" fill="#77c9c6" stroke="#77c9c6"/>
+    <path d="M93,105L166,483L370,333Z" fill="#71c3c9" stroke="#71c3c9"/>
+    <path d="M-123,152L-122,455L93,105Z" fill="#9cd5c5" stroke="#9cd5c5"/>
+    <path d="M93,105L-122,455L166,483Z" fill="#85c6c5" stroke="#85c6c5"/>
+    <path d="M-114,-32L93,105L101,-103Z" fill="#b6e3ba" stroke="#b6e3ba"/>
+    <path d="M-114,-32L-123,152L93,105Z" fill="#b2e1bc" stroke="#b2e1bc"/>
+ </g>
+
+<g transform="translate(642.667 -103.222)">
+  </g>
+            <text x="249" y="120" fill="white" text-anchor="middle" font-size="23" font-family="Ubuntu">Мы — не жулики, не во́ры —
+            <tspan x="249" y="155">Подписали догово́ры.</tspan>
+            <tspan x="249" y="300" font-size="21" fill="#823902">Норма: догово́ры (не договора́)</tspan>
+        </text>
+</svg>

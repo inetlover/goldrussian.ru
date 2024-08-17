@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="375">
+	
+<title>Жалюзи́</title>
+<desc>Солнце. Жарко. Привези́ нам для окон жалюзи́!</desc>
+	<defs>
+		<linearGradient id="a">
+			<stop offset="0" stop-color="#f108a3"/>
+			<stop offset="1" stop-color="#f108ff"/>
+		</linearGradient>
+		<radialGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(.67155 0 0 .501 -211.086 168.464)" r="372.956" fy="245.31" fx="-269.711" cy="245.31" cx="-269.711" id="b" xlink:href="#a"/>
+	</defs>
+	<g transform="translate(642.667 -103.222)">
+		<rect ry="0" y="104.512" x="-642.667" height="375" width="500" fill="url(#b)"/>
+	</g>
+			<text x="249" y="120" fill="white" text-anchor="middle" font-size="23" font-family="Ubuntu">Солнце. Жарко. Привези́
+			<tspan x="249" y="155">Нам для окон жалюзи́!</tspan>
+			<tspan x="249" y="300" font-size="21" fill="#ffff06">Норма: жалюзи́ (не жа́люзи)</tspan>
+		</text>
+</svg>

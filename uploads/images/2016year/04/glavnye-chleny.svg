@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+<title>Главные члены предложения</title>
+<desc>Главные члены предложения — это подлежащее и сказуемое.</desc>         
+    
+  <g
+     stroke-width="2.0" stroke="#f76601" fill="none">
+    <path d="m 128.67785,121.809 -0.16779,-22.67826 181.97027,0 -0.0868,21.98407"/>
+    <path d="m 124.65803,110.78292 4.04301,14.51884 3.94235,-14.49597"/>
+  </g>
+
+  <g
+     stroke-width="2.0" stroke="#f76601" fill="none">
+  <path d="m 127.72506,170.70664 -0.1679,17.84218 182.12987,0 -0.0869,-23.55996"/>
+  <path d="m 313.66846,178.12085 -4.10812,-13.15973 -4.00582,13.139"/>
+  </g>
+
+  <g
+     stroke="#55c71f" fill="none">
+  <line x1="135" y1="152" x2="135" y2="154" stroke-width="121"/>
+  <line x1="298" y1="152" x2="298" y2="154" stroke-width="98"/>
+  <line x1="298" y1="157" x2="298" y2="159" stroke-width="98"/>
+
+  <line x1="172" y1="279" x2="172" y2="281" stroke-width="88"/>
+  <line x1="172" y1="284" x2="172" y2="286" stroke-width="88"/>
+  <line x1="269" y1="279" x2="269" y2="281" stroke-width="55"/>
+  
+  <line x1="146" y1="321" x2="146" y2="323" stroke-width="103"/>
+  <line x1="146" y1="326" x2="146" y2="328" stroke-width="103"/>
+  <line x1="278" y1="321" x2="278" y2="323" stroke-width="106"/>
+
+  <line x1="138" y1="364" x2="138" y2="366" stroke-width="122"/>
+  <line x1="289" y1="364" x2="289" y2="366" stroke-width="124"/>
+  <line x1="289" y1="369" x2="289" y2="371" stroke-width="124"/>
+  </g>
+  
+  <text font-size="28" font-family="sans-serif" x="15.0" y="52.0" stroke="#55c71f" fill="#03ed0a">
+    Главные &#160;члены &#160;предложения
+  </text>
+  
+  <text font-size="19.0" font-weight="bold" font-style="italic" font-family="Liberation Sans" x="56.0" y="72.0" letter-spacing=".2" transform="matrix(1 0 0 1.09653 19.88 68.404)" fill="#5445b1">
+    подлежащее &#160; &#160; &#160; &#160; &#160; сказуемое
+  </text>
+
+  <g font-style="italic" font-weight="bold" font-family="URW Palladio L">
+    <text font-size="17.5" x="165.0" y="94.249" transform="scale(1.02687 .97383)" fill="#12a5d0">
+    кто? &#160; что?
+    </text>
+    <text font-size="17.5" x="10.0" y="100.0" transform="matrix(.95497 0 0 1.04715 100.21 103.026)" fill="#12a5d0">
+      что делает? &#160; что сделает?
+    </text>
+  <g text-anchor="middle" fill="#3214e4">
+    <text xml:space="preserve" font-size="22.5" x="205.0" y="275.0">
+        Пришло &#160; &#160; лето.
+    </text>
+    <text xml:space="preserve" font-size="22.5" x="205.0" y="317.0">
+        Начались &#160; &#160; каникулы.
+    </text>
+    <text xml:space="preserve" font-size="22.5" x="205.0" y="360.0">
+        Школьники &#160; &#160; отдыхают.
+    </text>
+  </g>
+  </g>
+  </svg>

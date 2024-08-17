@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="500" height="375">
+
+  <title>Имя существительное</title>
+  <desc>Имя существительное — знаменательная часть речи, которая обозначает предмет и отвечает на вопросы кто? или что?</desc>
+
+<text font-size="35" x="50.0" y="35.0" font-family="sans-serif" stroke="#55c71f" fill="#03ed0a">
+    Имя существительное
+  </text>
+<g font-weight="bold" font-style="italic" font-family="Liberation Sans" fill="#5445b1">
+  <text xml:space="preserve" font-size="16" x="4.0" y="90.0">
+    1.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="90.0">
+    обозначает предмет, отвечает на вопросы:
+  </text>
+  <text xml:space="preserve" font-size="15" x="72.0" y="116.0">
+      — одушевлённые сущ. —
+  </text>
+  <text xml:space="preserve" font-size="15" x="72.0" y="142.0">
+      — неодушевлённые сущ. —
+  </text>
+   <text xml:space="preserve" font-size="16" x="4.0" y="176.0">
+    2.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="176.0">
+    может быть
+  </text>
+  <text xml:space="preserve" font-size="16" x="173.0" y="176.0">
+   мужского
+  </text>
+  <text xml:space="preserve" font-size="16" x="173.0" y="202.0">
+   женского
+  </text>
+  <text xml:space="preserve" font-size="16" x="173.0" y="228.0">
+   среднего
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="262.0">
+    3.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="262.0">
+    изменяется по числам и падежам:
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="314.0">
+    И. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="120.0" y="314.0">
+    Р. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="227" y="314.0">
+    Д. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="338" y="314.0">
+    В. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="20.0" y="340.0">
+    Т. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="142.0" y="340.0">
+    П. п.
+  </text>
+  <text xml:space="preserve" font-size="16" x="4.0" y="371.0">
+    4.
+  </text>
+  <text xml:space="preserve" font-size="19" x="20.0" y="371.0">
+    в предложении:
+  </text>
+  <text xml:space="preserve" font-size="19" x="255.0" y="371.0">
+    ,
+  </text>
+  <text xml:space="preserve" font-size="19" x="342.0" y="371.0">
+    ,
+  </text>
+</g>
+  
+<g font-weight="bold" font-style="italic" font-family="URW Palladio L" font-size="21.0" fill="#3214e4">
+  <text xml:space="preserve" x="255" y="116.0">
+       Петя, школьник
+  </text>
+  <text xml:space="preserve" x="275" y="142">
+       глобус, листва
+  </text>
+  <text xml:space="preserve" x="360" y="176.0">
+      щенок
+  </text>
+  <text xml:space="preserve" x="360" y="202.0">
+      улица
+  </text>
+  <text xml:space="preserve" x="360" y="228.0">
+      дерево
+  </text>
+  <text xml:space="preserve" x="342" y="288.0">
+    дом — дома
+  </text>
+  <text xml:space="preserve" x="57" y="314.0">
+    кот,
+  </text>
+  <text xml:space="preserve" x="154" y="314.0">
+    кота,
+  </text>
+  <text xml:space="preserve" x="264" y="314.0">
+    коту,
+  </text>
+  <text xml:space="preserve" x="375" y="314.0">
+    кота,
+  </text>
+  <text xml:space="preserve" x="55" y="340.0">
+    котом,
+  </text>
+  <text xml:space="preserve" x="179" y="340.0">
+    о коте
+  </text>
+</g>
+
+<g font-style="italic" font-family="URW Palladio L" font-size="26" fill="#1fa9d2">
+    <text xml:space="preserve" x="4" y="116.0">
+    кто?
+    </text>
+    <text xml:space="preserve" x="4" y="142.0">
+    что?
+    </text>
+ </g>
+  
+<line x1="240" y1="370" x2="240" y2="372" stroke-width="68" stroke="#55c71f" fill="none"/>
+<line x1="300" y1="371" x2="362" y2="371" stroke="#55c71f" fill="none" style="stroke-dasharray: 10 7; stroke-width: 2px;"/>
+<line x1="384" y1="371" x2="447" y2="371" stroke="#55c71f" fill="none" style="stroke-dasharray: 11 6 3 6; stroke-width: 2px;"/>
+
+<text x="316.0" y="202.0" transform="scale(.9025 1.10802)" font-size="65.0" font-family="NanumMyeongjo" fill="#f45c00">}
+</text>
+<text font-style="italic" font-size="24" font-family="URW Palladio L" x="325.0" y="203.0" fill="#20a91f">рода
+</text>
+<text font-style="italic" font-weight="bold" font-size="18" font-family="URW Palladio L" x="40.0" y="288.0" fill="#20a91f">
+    единственное число / множественное:
+</text>
+</svg>
